@@ -1,0 +1,17 @@
+El video Black Panther New Scene - SNL levantó la siguiente excepción: Debe ingresar números apropiados
+El video Falcon Heavy & Starman levantó la siguiente excepción: El tag del video es de largo 0 o es None
+El video The FASTEST Grand Mac Meal Ever Eaten (under 1 Minute!!) levantó la siguiente excepción: Debe ingresar números apropiados
+El video The Historic Disappearance of Louis Le Prince levantó la siguiente excepción: El video tiene más likes que views
+El video I TRIED FOLLOWING A SIMPLY NAILOGICAL MAKEUP TUTORIAL... WOW! levantó la siguiente excepción: El denominador del ratio no puede ser cero
+El video Pen Circle Traps Ant (But How?) levantó la siguiente excepción: la fecha debe venir con el formato apropiado
+El video Mindy Kaling Liked Stephen's Baby Gift... But Not As Much As Oprah's levantó la siguiente excepción: El denominador del ratio no puede ser cero
+El video Nintendo Direct 3.8.2018 levantó la siguiente excepción: la fecha debe venir con el formato apropiado
+El video Official Call of Duty®: Black Ops 4 Teaser levantó la siguiente excepción: El video tiene más likes que views
+El video The Grinch - Official Trailer (HD) levantó la siguiente excepción: Debe ingresar números apropiados
+El video ELDERS REACT AND TRY McDONALD’S SZECHUAN SAUCE (Rick and Morty) levantó la siguiente excepción: El denominador del ratio no puede ser cero
+El video Kristin Gets A Desk Makeover • Ladylike levantó la siguiente excepción: la fecha debe venir con el formato apropiado
+El video Arie Luyendyk & Lauren Burnham the Morning After The Bachelor Finale levantó la siguiente excepción: El tag del video es de largo 0 o es None
+El video World's Longest LEGO Walk | Dude Perfect levantó la siguiente excepción: la fecha debe venir con el formato apropiado
+El video Kevin Hart On What The Fit & Sumo Wrestling With Conan  - CONAN on TBS levantó la siguiente excepción: Debe ingresar números apropiados
+El video Girl Fits Into Fish Tank ft. Sofie Dossi levantó la siguiente excepción: la fecha debe venir con el formato apropiado
+El video A Thirsty Sidewalk levantó la siguiente excepción: la fecha debe venir con el formato apropiado

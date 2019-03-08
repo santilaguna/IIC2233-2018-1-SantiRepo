@@ -1,0 +1,6 @@
+conquistado: bool, galaxia: string, magos: int, nombre: string, tasa_deuterio: int, tasa_minerales: int, raza: string, nivel_ataque: int, nivel_economia: int, cuartel: bool, torre: bool, ultima_recoleccion: datetime, soldados: int 
+True, aburre, 0, aburre, 8, 1, Maestro, 0, 0, True, False, 2018-5-4 22:14:57, 0 
+False, aburre, 0, desagrado, 12, 10, Asesino, 0, 0, False, False, 2018-5-4 22:15:24, 300 
+False, aburre, 0, aburres, 13, 6, Aprendiz, 0, 0, False, False, 2018-5-4 22:23:53, 112 
+False, aburre, 0, adivinar, 13, 5, Asesino, 0, 0, False, False, 2018-5-4 22:25:51, 300 
+True, aburre, 0, dosecses, 14, 4, Maestro, 0, 0, False, False, 2018-5-4 22:26:2, 0 
